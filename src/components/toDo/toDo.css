@@ -1,0 +1,12 @@
+.to-do-holder {
+  height: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+.item-holder {
+  display: flex;
+  align-items: center;
+}
